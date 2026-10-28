@@ -1,0 +1,7 @@
+Group,n,MetS Prev,AUROC,Precision,Recall,F1
+Mexican American,450,41.3%,0.806,0.679,0.5914,0.6322
+Other Hispanic,358,40.2%,0.8038,0.6694,0.5764,0.6194
+Non-Hispanic White,1238,37.4%,0.8126,0.6862,0.581,0.6292
+Non-Hispanic Black,901,33.3%,0.814,0.6414,0.5067,0.5661
+Non-Hispanic Asian,428,27.3%,0.7928,0.5345,0.265,0.3543
+Other/Multi-Racial,193,40.9%,0.8116,0.6923,0.5696,0.625
